@@ -14,3 +14,14 @@ Clone this repo:
 
 git clone https://github.com/Common-Voice/cv-sentence-extractor.git
 
+Next, download the WikiExtractor:
+
+git clone https://github.com/attardi/wikiextractor.git
+
+# Extraction
+Type the following in the terminal and change the XX to the language that it corresponds to. Ex: en for English, af for Afrikaans and ve for Tshivenḓa and so on.
+
+wget https://dumps.wikimedia.org/XXwiki/latest/XXwiki-latest-pages-articles-multistream.xml.bz2
+
+bzip2 -d XXwiki-latest-pages-articles-multistream.xml.bz2
+
