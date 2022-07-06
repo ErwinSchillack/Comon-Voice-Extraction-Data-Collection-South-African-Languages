@@ -51,3 +51,9 @@ After extracting the dump, we need to setup a rules.otml file for the specific l
 | Sesotho sa Leboa |  |  |  |
 | Setswana|  |  |  |
 | Tshivenḓa|  |  |  |
+
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
