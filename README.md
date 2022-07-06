@@ -6,3 +6,11 @@ cv-sentence-extractor is a Rust library typically used in Artificial Intelligenc
 Common Voice is Mozilla's initiative to help teach machines how real people speak. For this we need to collect sentences that people can read out aloud on the website. Individual sentences can be submitted through the Sentence Collector. This only can scale so far, so we also use automated tools to extract sentences from other sources.
 
 Words and sentences were extracted from wikipedai related to the 11 official South African Languages. 
+CText NCHLT Web Service is then used to indetify the given language.
+
+# Setup
+
+Clone this repo:
+
+git clone https://github.com/Common-Voice/cv-sentence-extractor.git
+
