@@ -25,3 +25,16 @@ wget https://dumps.wikimedia.org/XXwiki/latest/XXwiki-latest-pages-articles-mult
 
 bzip2 -d XXwiki-latest-pages-articles-multistream.xml.bz2
 
+
+Use WikiExtractor to extract the dump. In the parameters, we specify to use JSON as the output format instead of the default XML.
+
+cd wikiextractor
+git checkout e4abb4cbd019b0257824ee47c23dd163919b731b
+python WikiExtractor.py --json ../XXwiki-latest-pages-articles-multistream.xml
+
+After extracting the dump, we need to setup a rules.otml file for the specific language tht we are working with.
+
+
+# Results
+
+
