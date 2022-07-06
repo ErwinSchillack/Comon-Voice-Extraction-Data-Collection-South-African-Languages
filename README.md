@@ -38,16 +38,16 @@ After extracting the dump, we need to setup a rules.otml file for the specific l
 # Results
 
 
-| Sentences | Words |
+| Amount of Articles| Sentence Count| Word Count |
 | --- | --- |
-| SeSwati | List all new or modified files |
-| Xitsonga | Show file differences that haven't been staged |
-| Afrikaans | Show file differences that haven't been staged |
-| English | Show file differences that haven't been staged |
-| Sesotho | Show file differences that haven't been staged |
-| isiZulu | Show file differences that haven't been staged |
-| isiXhosa | Show file differences that haven't been staged |
-| isiNdebele | Show file differences that haven't been staged |
-| Sesotho sa Leboa | Show file differences that haven't been staged |
-| Setswana| Show file differences that haven't been staged |
-| Tshivenḓa| Show file differences that haven't been staged |
+| SeSwati |  |
+| Xitsonga |  |
+| Afrikaans |  |
+| English |  |
+| Sesotho | |
+| isiZulu |  |
+| isiXhosa |  |
+| isiNdebele |  |
+| Sesotho sa Leboa |  |
+| Setswana|  |
+| Tshivenḓa|  |
