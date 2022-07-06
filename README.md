@@ -38,19 +38,19 @@ After extracting the dump, we need to setup a rules.otml file for the specific l
 # Results
 
 
-| Languages| Total Pages| Total Artical Pages| Sentence Count| Word Count |Word Count |Word Count |Word Count |Word Count |Word Count |Word Count |
+| Languages| Total Pages| Total Artical Pages| Sentence Count| Word Count | Character Count (Spaces not included) |Word Count |Word Count |Word Count |Word Count |Word Count |
 | ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
-| SeSwati | 1131 | 587 |  |
-| Xitsonga |1992| 740 | 203 | 1610  |
+| SiSwati | 1131 | 587 | 123 | 762 | 6778 |
+| Xitsonga |1992| 740 | 203 | 1610  | 8968 |
 | Afrikaans |  |  |  |
 | English |  |  |  |
-| Sesotho | |  |  |
+| Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
 | isiZulu |  |  |  |
 | isiXhosa |  |  |  |
 | isiNdebele |  |  |  |
 | Sesotho sa Leboa |  |  |  |
 | Setswana|  |  |  |
-| Tshivenḓa|  |  |  |
+| Tshivenḓa| 1061 | 716 | 79 | 431 | 2553 |
 
 
 | Command | Description |
