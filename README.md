@@ -38,7 +38,7 @@ After extracting the dump, we need to setup a rules.otml file for the specific l
 # Results
 
 
-| Languages| Artical Pages| Sentence Count| | | | | | | |
+| Languages| Artical Pages| Sentence Count|  |  |  |  |  |  |  |
 | ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
 | SeSwati |  |  |  |
 | Xitsonga |  | 203 | 1610  |
