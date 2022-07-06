@@ -38,8 +38,8 @@ After extracting the dump, we need to setup a rules.otml file for the specific l
 # Results
 
 
-| Artical Pages| Sentence Count| Word Count |
-| --- | --- | --- | --- |
+| Artical Pages| Sentence Count| Word Count |Word Count |Word Count |Word Count |Word Count |Word Count |Word Count |Word Count |Word Count |
+| ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
 | SeSwati |  |  |  |
 | Xitsonga |  | 203 | 1610  |
 | Afrikaans |  |  |  |
