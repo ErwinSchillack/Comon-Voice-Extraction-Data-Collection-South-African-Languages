@@ -53,7 +53,3 @@ After extracting the dump, we need to setup a rules.otml file for the specific l
 | Tshivenḓa| 1061 | 716 | 79 | 431 | 2553 |
 
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
