@@ -75,8 +75,8 @@ cargo run --release -- extract-wikisource -l XX -d ../wikiextractor/text/ >> wik
 # Results
 
 
-| Languages| Total Pages| Total Artical Pages| Sentence Count| Word Count | Character Count (Spaces not included) |Word Count |Word Count |Word Count |Word Count |Word Count |
-| ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
+| Languages| Total Pages| Total Artical Pages| Sentence Count| Word Count | Character Count (Spaces not included) |
+| ---------- | ----------- | -------- | -------- |-------- |-------- |
 | SiSwati | 1131 | 587 | 123 | 762 | 6778 |
 | Xitsonga |1992| 740 | 203 | 1610  | 8968 |
 | Afrikaans |  |  |  |
