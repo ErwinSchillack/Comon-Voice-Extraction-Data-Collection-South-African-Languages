@@ -65,10 +65,14 @@ After extracting the dump, we need to setup a rules.otml file for the specific l
 
 
 Scrape the sentences into a new file from the WikiExtractor output directory:
+Were XX, the language code that you are busy working with.
+
 
 cd ../cv-sentence-extractor
 pip3 install -r requirements.txt # can be skipped if your language doesn't use the Python segmenter
 cargo run --release -- extract-wikisource -l XX -d ../wikiextractor/text/ >> wiki.XX.txt
+
+
 
 
 
