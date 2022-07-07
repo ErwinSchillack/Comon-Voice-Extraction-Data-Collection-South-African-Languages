@@ -105,7 +105,7 @@ Example:
 ```bash
 python3 FilterLanguage.py Tshivenḓa wiki.ve.txt wiki.ve-output.txt
 ```
-
+This will produce text files containing all the relevent results and Secondary languages indetified during the process.
 
 # Results
 
