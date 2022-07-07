@@ -32,7 +32,7 @@ cd wikiextractor
 git checkout e4abb4cbd019b0257824ee47c23dd163919b731b
 python WikiExtractor.py --json ../XXwiki-latest-pages-articles-multistream.xml
 
-After extracting the dump, we need to setup a rules.otml file for the specific language tht we are working with.
+After extracting the dump, we need to setup a rules.otml file for the specific language that we are working with.
 
 
 # Results
