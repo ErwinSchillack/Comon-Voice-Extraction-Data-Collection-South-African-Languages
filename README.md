@@ -73,11 +73,19 @@ pip3 install -r requirements.txt # can be skipped if your language doesn't use t
 cargo run --release -- extract-wikisource -l XX -d ../wikiextractor/text/ >> wiki.XX.txt
 ```
 
+
+Run the cv-sentence-extractor again, but this time, allow all extractions to take place
 ```bash
 cd ../cv-sentence-extractor
-cargo run --release -- extract -l en -d ../wikiextractor/text/ --no_check >> wiki.en.all.txt
+cargo run --release -- extract -l XX -d ../wikiextractor/text/ --no_check >> wiki.XX.all.txt
 ```
-
+Then you can use the cvtools scripts to generate a list of the word frequency:
+```bash
+cd  ..
+git clone https://github.com/dabinat/cvtools/
+cd cvtools
+python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.XX.all.txt >> word_usage.XX.txt
+```
 
 # Results
 
