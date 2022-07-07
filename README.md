@@ -87,6 +87,26 @@ cd cvtools
 python3 ./word_usage.py -i ../cv-sentence-extractor/wiki.XX.all.txt >> word_usage.XX.txt
 ```
 
+# Data Processing
+After all the extractions has taken place, we need to upload the wiki.XX.txt file to CText NCHLT website.
+```bash
+https://hlt.nwu.ac.za/
+```
+Select the language that your are working with and the selected techonolgy should be "Language Identifier"
+
+After uploadding and processing the wiki.XX.txt file, the website will give you a "wiki.XX-output.txt" output file.
+Next, run the following with all the gathered data and files.
+
+```bash
+python3 FilterLanguage.py Language wiki.XX.txt wiki.XX-output.txt
+```
+Example:
+
+```bash
+python3 FilterLanguage.py Tshivenḓa wiki.ve.txt wiki.ve-output.txt
+```
+
+
 # Results
 
 
