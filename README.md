@@ -11,27 +11,27 @@ CText NCHLT Web Service is then used to indetify the given language.
 # Setup
 
 Clone this repo:
-
+```bash
 git clone https://github.com/Common-Voice/cv-sentence-extractor.git
-
+```
 Next, download the WikiExtractor:
-
+```bash
 git clone https://github.com/attardi/wikiextractor.git
-
+```
 # Extraction
 Type the following in the terminal and change the XX to the language that it corresponds to. Ex: en for English, af for Afrikaans and ve for Tshivenḓa and so on.
-
+```bash
 wget https://dumps.wikimedia.org/XXwiki/latest/XXwiki-latest-pages-articles-multistream.xml.bz2
 
 bzip2 -d XXwiki-latest-pages-articles-multistream.xml.bz2
-
+```
 
 Use WikiExtractor to extract the dump. In the parameters, we specify to use JSON as the output format instead of the default XML.
-
+```bash
 cd wikiextractor
 git checkout e4abb4cbd019b0257824ee47c23dd163919b731b
 python WikiExtractor.py --json ../XXwiki-latest-pages-articles-multistream.xml
-
+```
 
 # Rule Files
 
@@ -67,13 +67,16 @@ After extracting the dump, we need to setup a rules.otml file for the specific l
 Scrape the sentences into a new file from the WikiExtractor output directory:
 Were XX, the language code that you are busy working with.
 
-
+```bash
 cd ../cv-sentence-extractor
 pip3 install -r requirements.txt # can be skipped if your language doesn't use the Python segmenter
 cargo run --release -- extract-wikisource -l XX -d ../wikiextractor/text/ >> wiki.XX.txt
+```
 
-
-
+```bash
+cd ../cv-sentence-extractor
+cargo run --release -- extract -l en -d ../wikiextractor/text/ --no_check >> wiki.en.all.txt
+```
 
 
 # Results
