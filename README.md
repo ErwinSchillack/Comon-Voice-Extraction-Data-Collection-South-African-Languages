@@ -125,3 +125,24 @@ This will produce text files containing all the relevent results and Secondary l
 | Tshivenḓa| 1061 | 716 | 79 | 431 | 2553 |
 
 
+
+
+
+# OPUS
+
+The table below show the amount of sentences that were extracted from each corpra for he different languages that was available within OPUS:
+
+| Languages| CCAligned v1| GNOME v1| XLEnt v1.1| tico-19 v2020-10-28| Tatoeba v2022-03-03| CCMatrix v1| 
+| ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |
+| SiSwati | 1131 | 587 | 123 | 762 | 6778 |
+| Xitsonga |1992| 740 | 203 | 1610  | 8968 |
+| Afrikaans |  |  |  |
+| English |  |  |  |
+| Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
+| isiZulu |  |  |  |
+| isiXhosa |  |  |  |
+| isiNdebele |  |  |  |
+| Sesotho sa Leboa |  |  |  |
+| Setswana|  |  |  |
+| Tshivenḓa| 1061 | 716 | 79 | 431 | 2553 |
+
