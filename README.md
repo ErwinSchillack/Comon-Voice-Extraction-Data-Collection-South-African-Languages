@@ -183,7 +183,7 @@ Corpra | CCAligned v1 | GNOME v1| | QED v2.0a | Tatoeba v2022-03-03 |
 | CCAligned v1 |  | 0.94% | 0% | 0% |
 | GNOME v1 | 0.94% |  | 0.5% | 0% |
 | QED v2.0a | 0% | 0.5% |  | 0% |
-| Tatoeba v2022-03-03 |  0% | 0% | 0% |  |
+| Tatoeba v2022-03-03 | 0% | 0% | 0% |  |
 
 # Afrikaans
 Corpra | CCAligned v1 | GNOME v1| | QED v2.0a | Tatoeba v2022-03-03 |
