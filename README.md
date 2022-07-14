@@ -142,7 +142,7 @@ The table below show the amount of sentences that were extracted from each corpr
 | English |  |  |  |
 | Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
 | isiZulu |  |  |  |
-| isiXhosa | 2323 | 535 |  | 1610 |  |  | 4585 | 1139 |  | 2430 |
+| isiXhosa | 2323 | 535 |  | 1610 |  |  | 4585 | 1139 | 2430 |  |
 | isiNdebele |  |  |  |
 | Sesotho sa Leboa |  |  |  |
 | Setswana| 802 |  | 120 |  | 2 |
