@@ -134,8 +134,8 @@ This will produce text files containing all the relevent results and Secondary l
 
 The table below show the amount of sentences that were extracted from each corpra for the different languages that were available within OPUS, after all filtering and applying the 10% copyright rule.
 
-| Languages| CCAligned v1| GNOME v1| XLEnt v1.1| tico-19 v2020-10-28| Tatoeba v2022-03-03| CCMatrix v1| memat v1|KDE4 v2|XhosaNavy v1|QED v2.0a|SPC v1|TED2020 v1| ELRC_2922 v1|OpenSubtitles v2018
-| ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
+| Languages| CCAligned v1| GNOME v1| XLEnt v1.1| tico-19 v2020-10-28| Tatoeba v2022-03-03| CCMatrix v1| memat v1|KDE4 v2|XhosaNavy v1|QED v2.0a|SPC v1|TED2020 v1| ELRC_2922 v1|OpenSubtitles v2018|
+| ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
 | SiSwati | 1131 | 587 | 123 | 762 | 6778 |
 | Xitsonga |1992| 740 | 203 | 1610  | 8968 |
 | Afrikaans |  |  |  |
