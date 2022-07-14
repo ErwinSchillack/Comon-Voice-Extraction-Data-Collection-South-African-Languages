@@ -184,14 +184,22 @@ Corpra | CCAligned v1 | GNOME v1| QED v2.0a | Tatoeba v2022-03-03 |
 | GNOME v1 | 0.94% |  | 0.5% | 0% |
 | QED v2.0a | 0% | 0.5% |  | 0% |
 | Tatoeba v2022-03-03 | 0% | 0% | 0% |  |
+| XLEnt v1.1 |
 
 # Afrikaans
-Corpra | CCAligned v1 | GNOME v1| QED v2.0a | Tatoeba v2022-03-03 |
-| ---------- | ----------- | -------- | -------- | -------- |
-| CCAligned v1 |  | 0.94% | 0% | 0% |
-| GNOME v1 | 0.94% |  | 0.5% | 0% |
-| QED v2.0a | 0% | 0.5% |  | 0% |
-| Tatoeba v2022-03-03 |  0% | 0% | 0% |  |
+Corpra | CCAligned v1 | GNOME v1| QED v2.0a | Tatoeba v2022-03-03 | XLEnt v1.1 | TED2020 v1 | KDE4 v2 | SPC v1 | OpenSubtitles v2018 | ELRC_2922 v1 |
+| ---------- | ----------- | -------- | -------- | -------- |-------- |-------- |-------- |-------- ||-------- ||-------- |
+| CCAligned v1 |  | 0.4% | 0% | 0% | 2.2% | 0% | 0.8% | 0.2% | 0% | 0% |
+| GNOME v1 | 0.4% |  | 0.3% | 0% | 0.9% | 0% | 0.8% | 0.1% | 0% | 0% | 0% | 
+| QED v2.0a | 0% | 0.3% |  | 0% |
+| Tatoeba v2022-03-03 |  0% | 0.9% | 0% |  |
+| XLEnt v1.1 | 2.2% | 0% |  | 0% |  |  |  |
+| TED2020 v1 | 0% | 0.8% |
+| KDE4 v2 | 0.8% | 0.1% |
+| SPC v1 | 0.2% | 0% |
+| OpenSubtitles v2018 |  0% | 0% |
+| ELRC_2922 v1 | 0% | 0% |
+
 
 
 Corpra | CCAligned v1| GNOME v1| XLEnt v1.1| tico-19 v2020-10-28| Tatoeba v2022-03-03| CCMatrix v1| memat v1|KDE4 v2|XhosaNavy v1|QED v2.0a|SPC v1|TED2020 v1| ELRC_2922 v1|OpenSubtitles v2018|
