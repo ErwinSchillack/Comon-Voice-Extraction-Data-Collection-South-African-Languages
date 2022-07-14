@@ -170,6 +170,19 @@ The table below shows the amount of sentences that were extracted from each corp
 
 # Percentage Overlap Between Different Corpra for each language:
 
+# SiSwati
+Corpra | CCAligned v1| GNOME v1|
+| ---------- | ----------- | -------- |
+| CCAligned v1 |  | 2% |
+| GNOME v1 | 2% |  |
 
 
+Corpra | CCAligned v1| GNOME v1| XLEnt v1.1| tico-19 v2020-10-28| Tatoeba v2022-03-03| CCMatrix v1| memat v1|KDE4 v2|XhosaNavy v1|QED v2.0a|SPC v1|TED2020 v1| ELRC_2922 v1|OpenSubtitles v2018|
+| ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
+| CCAligned v1 |
+| GNOME v1 |
+| XLEnt v1.1 |
+| tico-19 v2020-10-28 |
+| Tatoeba v2022-03-03 |
+| CCMatrix v1 |
 
