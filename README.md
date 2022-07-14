@@ -149,6 +149,9 @@ The table below show the amount of sentences that were extracted from each corpr
 | Tshivenḓa| 1061 | 716 | 79 | 431 | 2553 |
 
 
+The table below shows the amount of sentences that were extracted from each corpra for the different languages that were available within OPUS, before the 10% copyright rule.
+
+
 | Languages| CCAligned v1| GNOME v1| XLEnt v1.1| tico-19 v2020-10-28| Tatoeba v2022-03-03| CCMatrix v1| memat v1|KDE4 v2|XhosaNavy v1|QED v2.0a|SPC v1|TED2020 v1| ELRC_2922 v1|OpenSubtitles v2018|
 | ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
 | SiSwati | 1131 | 587 | 123 | 762 | 6778 |
