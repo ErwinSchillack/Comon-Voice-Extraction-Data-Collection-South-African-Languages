@@ -142,7 +142,7 @@ The table below show the amount of sentences that were extracted from each corpr
 | English |  |  |  |
 | Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
 | isiZulu |  |  |  |
-| isiXhosa | 2323 | 535 |  | 1610 |  |  |  | 1139 |
+| isiXhosa | 2323 | 535 |  | 1610 |  |  | 4585 | 1139 |  | 2430 |
 | isiNdebele |  |  |  |
 | Sesotho sa Leboa |  |  |  |
 | Setswana| 802 |  | 120 |  | 2 |
@@ -160,9 +160,16 @@ The table below shows the amount of sentences that were extracted from each corp
 | English |  |  |  |
 | Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
 | isiZulu |  |  |  |
-| isiXhosa | 24449 | 55628 |  | 16970 |  |  |  | 11991 |
+| isiXhosa | 24449 | 55628 |  | 16970 |  |  | 48266 | 11991 |  | 25580 |
 | isiNdebele |  |  |  |
 | Sesotho sa Leboa |  |  |  |
 | Setswana| 802 |  | 120 |  | 2 |
 | Tshivenḓa| 1061 | 716 | 79 | 431 | 2553 |
+
+
+
+# Percentage Overlap Between Different Corpra for each language:
+
+
+
 
