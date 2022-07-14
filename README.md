@@ -137,14 +137,29 @@ The table below show the amount of sentences that were extracted from each corpr
 | Languages| CCAligned v1| GNOME v1| XLEnt v1.1| tico-19 v2020-10-28| Tatoeba v2022-03-03| CCMatrix v1| memat v1|KDE4 v2|XhosaNavy v1|QED v2.0a|SPC v1|TED2020 v1| ELRC_2922 v1|OpenSubtitles v2018|
 | ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
 | SiSwati | 1131 | 587 | 123 | 762 | 6778 |
-| Xitsonga |1992| 740 | 203 | 1610  | 8968 |
+| Xitsonga |  |  | 1612 |   | 8968 |
 | Afrikaans |  |  |  |
 | English |  |  |  |
 | Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
 | isiZulu |  |  |  |
-| isiXhosa |  |  |  |
+| isiXhosa | 2323 |  |  | 1610 |
 | isiNdebele |  |  |  |
 | Sesotho sa Leboa |  |  |  |
-| Setswana|  |  |  |
+| Setswana| 802 |  | 120 |  | 2 |
+| Tshivenḓa| 1061 | 716 | 79 | 431 | 2553 |
+
+
+| Languages| CCAligned v1| GNOME v1| XLEnt v1.1| tico-19 v2020-10-28| Tatoeba v2022-03-03| CCMatrix v1| memat v1|KDE4 v2|XhosaNavy v1|QED v2.0a|SPC v1|TED2020 v1| ELRC_2922 v1|OpenSubtitles v2018|
+| ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
+| SiSwati | 1131 | 587 | 123 | 762 | 6778 |
+| Xitsonga |  |  | 1612 | 1610  | 8968 |
+| Afrikaans |  |  |  |
+| English |  |  |  |
+| Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
+| isiZulu |  |  |  |
+| isiXhosa | 24449 |  |  | 16970 |
+| isiNdebele |  |  |  |
+| Sesotho sa Leboa |  |  |  |
+| Setswana| 802 |  | 120 |  | 2 |
 | Tshivenḓa| 1061 | 716 | 79 | 431 | 2553 |
 
