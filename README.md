@@ -137,16 +137,16 @@ The table below show the amount of sentences that were extracted from each corpr
 | Languages| CCAligned v1| GNOME v1| XLEnt v1.1| tico-19 v2020-10-28| Tatoeba v2022-03-03| CCMatrix v1| memat v1|KDE4 v2|XhosaNavy v1|QED v2.0a|SPC v1|TED2020 v1| ELRC_2922 v1|OpenSubtitles v2018|
 | ---------- | ----------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |-------- |
 | SiSwati | 1131 | 587 | 123 | 762 | 6778 |
-| Xitsonga |  |  | 1612 |   | 8968 |
-| Afrikaans |  |  |  |
+| Xitsonga | 2254 |  | 1612 |   | 8968 |
+| Afrikaans | 7885 |  |  |
 | English |  |  |  |
 | Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
-| isiZulu |  |  |  |
+| isiZulu | 3222 |  |  |
 | isiXhosa | 2323 | 535 |  | 1610 |  |  | 4585 | 1139 | 2430 |  |
 | isiNdebele |  |  |  |
 | Sesotho sa Leboa |  |  |  |
 | Setswana| 802 |  | 120 |  | 2 |
-| Tshivenḓa| 1061 | 716 | 79 | 431 | 2553 |
+| Tshivenḓa| 203 | 716 | 79 | 431 | 2553 |
 
 
 The table below shows the amount of sentences that were extracted from each corpra for the different languages that were available within OPUS, before the 10% copyright rule.
@@ -173,8 +173,8 @@ The table below shows the amount of sentences that were extracted from each corp
 # SiSwati
 Corpra | CCAligned v1| GNOME v1|
 | ---------- | ----------- | -------- |
-| CCAligned v1 |  | 2% |
-| GNOME v1 | 2% |  |
+| CCAligned v1 |  | 2.3% |
+| GNOME v1 | 2.3% |  |
 
 
 # Xitsonga
@@ -184,21 +184,21 @@ Corpra | CCAligned v1 | GNOME v1| QED v2.0a | Tatoeba v2022-03-03 |
 | GNOME v1 | 0.94% |  | 0.5% | 0% |
 | QED v2.0a | 0% | 0.5% |  | 0% |
 | Tatoeba v2022-03-03 | 0% | 0% | 0% |  |
-| XLEnt v1.1 |
+
 
 # Afrikaans
 Corpra | CCAligned v1 | GNOME v1| QED v2.0a | Tatoeba v2022-03-03 | XLEnt v1.1 | TED2020 v1 | KDE4 v2 | SPC v1 | OpenSubtitles v2018 | ELRC_2922 v1 |
 | ---------- | ----------- | -------- | -------- | -------- |-------- |-------- |-------- |-------- ||-------- ||-------- |
 | CCAligned v1 |  | 0.4% | 0% | 0% | 2.2% | 0% | 0.8% | 0.2% | 0% | 0% |
 | GNOME v1 | 0.4% |  | 0.3% | 0% | 0.9% | 0% | 0.8% | 0.1% | 0% | 0% | 0% | 
-| QED v2.0a | 0% | 0.3% |  | 0% |
-| Tatoeba v2022-03-03 |  0% | 0.9% | 0% |  |
-| XLEnt v1.1 | 2.2% | 0% |  | 0% |  |  |  |
-| TED2020 v1 | 0% | 0.8% |
-| KDE4 v2 | 0.8% | 0.1% |
-| SPC v1 | 0.2% | 0% |
-| OpenSubtitles v2018 |  0% | 0% |
-| ELRC_2922 v1 | 0% | 0% |
+| QED v2.0a | 0% | 0.3% |  | 0% | 1% | 0% | 0.7% | 0% | 0% | 0% |
+| Tatoeba v2022-03-03 |  0% | 0.9% | 0% |  |  0% | 0% | 0% | 0% | 0% | 0% |
+| XLEnt v1.1 | 2.2% | 0% | 1% | 0% | 0%  |  |  |
+| TED2020 v1 | 0% | 0.8% | 0% | 0% |
+| KDE4 v2 | 0.8% | 0.1% | 0.7% | 0% |
+| SPC v1 | 0.2% | 0% | 0% | 0% |
+| OpenSubtitles v2018 |  0% | 0% | 0% | 0% |
+| ELRC_2922 v1 | 0% | 0% | 0% | 0% |
 
 
 
