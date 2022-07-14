@@ -142,7 +142,7 @@ The table below show the amount of sentences that were extracted from each corpr
 | English |  |  |  |
 | Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
 | isiZulu |  |  |  |
-| isiXhosa | 2323 |  |  | 1610 |
+| isiXhosa | 2323 | 535 |  | 1610 |  |  |  | 1139 |
 | isiNdebele |  |  |  |
 | Sesotho sa Leboa |  |  |  |
 | Setswana| 802 |  | 120 |  | 2 |
@@ -157,7 +157,7 @@ The table below show the amount of sentences that were extracted from each corpr
 | English |  |  |  |
 | Sesotho | 2882 | 1002 | 177 | 1332 | 7136 |
 | isiZulu |  |  |  |
-| isiXhosa | 24449 |  |  | 16970 |
+| isiXhosa | 24449 | 55628 |  | 16970 |  |  |  | 11991 |
 | isiNdebele |  |  |  |
 | Sesotho sa Leboa |  |  |  |
 | Setswana| 802 |  | 120 |  | 2 |
